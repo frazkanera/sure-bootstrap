@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.card:hover{
+    opacity: 0.6 !important;
+    z-index: 1 !important;
+}
+.card:hover p{
+    visibility: hidden;
+}
+.cards-title:hover{
+    background-color: #F7A804;
+    transition: .1s;
+    
+}
+.cards-title:hover i{
+    color: white !important;
+    transition: 1s;
+    
+}
